@@ -1,0 +1,1 @@
+import React from 'react'; import OccupancyChart from '../dashboard/OccupancyChart'; const OccupancyReport: React.FC = () => { return (<div><h2 className="text-2xl font-semibold text-textPrimary mb-4">Occupancy Report</h2><OccupancyChart /></div>); }; export default OccupancyReport;

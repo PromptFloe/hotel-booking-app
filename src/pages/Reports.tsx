@@ -1,0 +1,1 @@
+import React from 'react'; import RevenueReport from '../components/reports/RevenueReport'; import OccupancyReport from '../components/reports/OccupancyReport'; const Reports: React.FC = () => { return (<div className="space-y-6"><h1 className="text-4xl font-bold text-textPrimary">Reports</h1><RevenueReport /><OccupancyReport /></div>); }; export default Reports;

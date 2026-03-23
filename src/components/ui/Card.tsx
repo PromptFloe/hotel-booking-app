@@ -1,0 +1,1 @@
+import React from 'react'; interface CardProps { children: React.ReactNode; } const Card: React.FC<CardProps> = ({ children }) => { return (<div className="rounded-xl shadow-md border border-border p-5 bg-surface1 hover:shadow-lg transition-all duration-300">{children}</div>); }; export default Card;

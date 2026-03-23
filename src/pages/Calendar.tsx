@@ -1,0 +1,1 @@
+import React from 'react'; import BookingCalendar from '../components/calendar/BookingCalendar'; const Calendar: React.FC = () => { return (<div className="space-y-6"><h1 className="text-4xl font-bold text-textPrimary">Calendar</h1><BookingCalendar /></div>); }; export default Calendar;

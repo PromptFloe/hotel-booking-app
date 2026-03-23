@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "generator": "promptfloe",
+  "generatedAt": "2026-03-23T14:59:08.875Z",
+  "project": {
+    "name": "hotel-booking-app",
+    "framework": "react",
+    "chatId": null
+  },
+  "repo": "PromptFloe/hotel-booking-app",
+  "urls": {
+    "app": "https://promptfloe.com",
+    "docs": "https://docs.promptfloe.com"
+  }
+}

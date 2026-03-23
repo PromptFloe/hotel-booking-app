@@ -1,0 +1,1 @@
+export const hotels = [{ id: '1', name: 'The Grand Palace', location: 'Mumbai', rating: 4.5 }, { id: '2', name: 'Ocean View Resort', location: 'Goa', rating: 4.7 }, { id: '3', name: 'Mountain Retreat', location: 'Manali', rating: 4.6 }];
