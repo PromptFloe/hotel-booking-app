@@ -1,0 +1,1 @@
+import React from 'react'; import { Input } from '../ui/Input'; const BookingFilters: React.FC = () => { return (<div className="flex gap-4 mb-4"><Input placeholder="Search by Guest ID" /><Input placeholder="Search by Room ID" /></div>); }; export default BookingFilters;

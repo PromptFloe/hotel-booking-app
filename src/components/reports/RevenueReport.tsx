@@ -1,0 +1,1 @@
+import React from 'react'; import RevenueChart from '../dashboard/RevenueChart'; const RevenueReport: React.FC = () => { return (<div><h2 className="text-2xl font-semibold text-textPrimary mb-4">Revenue Report</h2><RevenueChart /></div>); }; export default RevenueReport;

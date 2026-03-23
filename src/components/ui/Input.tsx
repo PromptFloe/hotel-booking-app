@@ -1,0 +1,1 @@
+import React from 'react'; interface InputProps extends React.InputHTMLAttributes<HTMLInputElement> {} const Input: React.FC<InputProps> = (props) => { return (<input className="border border-border rounded-lg px-3 py-2 focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all outline-none" {...props} />); }; export default Input;

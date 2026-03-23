@@ -1,0 +1,1 @@
+import React from 'react'; const BookingCalendar: React.FC = () => { return (<div className="bg-surface1 p-6 rounded-xl shadow-md">Booking Calendar Component</div>); }; export default BookingCalendar;

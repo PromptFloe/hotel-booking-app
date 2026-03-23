@@ -1,0 +1,1 @@
+export const rooms = [{ id: '101', number: '101', type: 'single', status: 'available', price: 5000 }, { id: '102', number: '102', type: 'double', status: 'occupied', price: 7500 }, { id: '103', number: '103', type: 'suite', status: 'maintenance', price: 12000 }];

@@ -1,0 +1,1 @@
+export const revenueData = [{ month: 'January', revenue: 150000 }, { month: 'February', revenue: 175000 }, { month: 'March', revenue: 200000 }]; export const occupancyData = [{ month: 'January', occupancy: 75 }, { month: 'February', occupancy: 80 }, { month: 'March', occupancy: 85 }];
